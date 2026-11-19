@@ -5773,6 +5773,10 @@
     "palette-history-site-icons": {
       "category": "improved",
       "message": "History results in the command palette now show their site's icon with a small clock badge, so results from different sites are easy to tell apart."
+    },
+    "chromium-upstream-157-0-8103-81-35a9bfb397cd": {
+      "category": "fixed",
+      "message": "Chromium is updated to 157.0.8103.81 with upstream security and compatibility fixes."
     }
   }
 }
